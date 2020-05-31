@@ -1,0 +1,4 @@
+This Project is about management of Electric Power Billing System.
+I made this Project by using Java Swing which is a  part of Java Foundation Classes (JFC) that is used to create window-based applications.
+DataBase used in the project is MySql and Project is developed in Netbeans IDE.
+
