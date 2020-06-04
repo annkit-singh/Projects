@@ -1,0 +1,2 @@
+Facial Expressions Detector in which Haar cascade is used for identification ,Keras API of Tensorflow for classification of five classes Sad,
+Angry, Neutral, Surprise and happy of human face & OpenCv for video Capturing through Webcam.
